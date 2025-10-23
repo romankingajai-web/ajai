@@ -1,3 +1,11 @@
-HAI IAM AJAI FROM AVS ARTS AND SCIENCE COLLEGE OF MSC COMPIUTER SCIENCE 
-IAM A WEBSITE DEVELOPER
-IAM UISNG THE TOOLS OF HTML ,CSS,JAVA SCRIPT AND BOOTSTRAP
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AAGAMA PROHITAM</title>
+</head>
+<body>
+    <pr>Hai This Your Aagama Prohitar Ajai Pattachareyar <pr>
+</body>
+</html>
